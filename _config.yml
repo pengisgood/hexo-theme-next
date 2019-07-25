@@ -77,7 +77,7 @@ footer:
   # Beian ICP information for Chinese users. See: http://www.beian.miit.gov.cn
   beian:
     enable: true
-    icp: 鄂ICP备xxx号
+    icp: 鄂ICP备19018329号
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
@@ -125,11 +125,11 @@ google_site_verification: -WZ2-66bd4uopOOiYyzbd9Movx44yZTYEd4Bmk_wBfI
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
-bing_site_verification:
+bing_site_verification: 618429658AD1F5F32CCBCCC0B0FBC368
 
 # Yandex Webmaster tools verification.
 # See: https://webmaster.yandex.ru
-yandex_site_verification:
+yandex_site_verification: 3f3d2c97a1f39452
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
