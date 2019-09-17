@@ -976,7 +976,7 @@ canvas_nest:
 # JavaScript 3D library.
 # Dependencies: https://github.com/theme-next/theme-next-three
 three:
-  enable: true
+  enable: false
   delay: true # Set true to further delay loading
   three_waves: true
   canvas_lines: false
