@@ -77,7 +77,8 @@ footer:
   # Beian ICP information for Chinese users. See: http://www.beian.miit.gov.cn
   beian:
     enable: true
-    icp: 鄂ICP备19018329号
+    icp: 鄂ICP备19018329号-1
+    url: https://beian.miit.gov.cn
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
